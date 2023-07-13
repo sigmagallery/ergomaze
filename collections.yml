@@ -1,3 +1,5 @@
 collections:
-- label: Ergo Maze
-  data: ergomaze.yml
+- label: V1
+  data: v1.yml
+- label: V2
+  data: v2.yml
