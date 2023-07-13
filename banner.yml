@@ -1,0 +1,10 @@
+title: 
+description: 
+image: https://ipfs.io/ipfs/
+backgroundImage: https://ipfs.io/ipfs/
+mintAddresses:
+  - 
+bannerLinks:
+  - label: Twitter
+    url: https://twitter.com/
+    icon: fa-brands fa-twitter fa-fw
