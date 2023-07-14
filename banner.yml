@@ -1,7 +1,6 @@
 title: Ergo Maze
 description: An Interactive Maze where each entrance leads to a treasure as well as to any other entrance. Different versions of the ERGO MAZE will allow you to create even larger and more interesting configurations.
 image: https://ipfs.io/ipfs/bafybeiagnr3r2gj34w3yqmawn4wpc3abhx6facnbqfhbmuaiqoozxdtg5m
-backgroundImage: https://ipfs.io/ipfs/bafybeiagnr3r2gj34w3yqmawn4wpc3abhx6facnbqfhbmuaiqoozxdtg5m
 mintAddresses:
   - 9gpszPFURgcP4xUoetodzkBpCKhPTNe8f2pKhZftqPpwxj2yh9q
 bannerLinks:
