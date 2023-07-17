@@ -1,5 +1,10 @@
 collections:
-- label: V1
-  data: v1.yml
-- label: V2
-  data: v2.yml
+- label: Ergo Maze V1
+  data: ergomazev1.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeiemnyuk4qqfhgudqjw7ulbqn32kzlqkhcounv3occpr25tlgz4qwi
+- label: Ergo Maze V2
+  data: ergomazev2.yml
+  image: https://ipfs.io/ipfs/bafybeiag76qogynbnjb4cljn5k6a2pfaxu3qc3uvti3p6ezp2obpewhhom
+- label: EYE
+  data: eye.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeidbzazu6ubtbgt7yqsqu23ezxtbroqgecldj536dqqkcbjceudngm
